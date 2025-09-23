@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <body>
 <h1>Levi Furst</h1>
 <h2>THE :) NEWS</h2>
