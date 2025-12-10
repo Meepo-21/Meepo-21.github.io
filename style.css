@@ -1,0 +1,47 @@
+<style>
+    img.dino {
+        filter:hue-rotate(120deg);
+    }
+    img.fly {
+        border-top-left-radius:50%;
+        border-bottom-right-radius:50%;
+        filter: invert(100%);
+    }
+    img.tictac {
+        width:500px;
+        height:320px;
+        filter:greyscale(100%);
+        border:27px solid transparent;
+        border-image-source:url(tic-tac-toe.png);
+        border-image:url(tic-tac-toe.png) 51 round;
+        border-image-width:27px;
+    }
+    div.bird {
+        width:560px;
+        height:396px;
+        background-image:url(seagull.png),linear-gradient(-45deg,#FFFFFF,#8888ff);
+        background-color:#FFFFFF;
+        box-shadow:5px 5px 5px #b7b7b7;
+
+    }
+    div.theater {
+        width:400px;
+        height:352px;
+    }
+    div img {
+         width:400px;
+        height:352px;
+        filter:blur(3px);
+    }
+    div div p{
+        font-size:48px;
+        color:#FFFFFF;
+        text-shadow:2px 2px 2px #000000;
+    }
+    img.snow {
+        width: 450px;
+        height: 300px;
+        border-radius: 50%;
+        border: 1px solid #000000;
+    }
+</style>
