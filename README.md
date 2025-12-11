@@ -1,1 +1,1 @@
-<a href="imitation.html" target="_blank">click here</a>
+<a href="Imitation.html" target="_blank">click here</a>
