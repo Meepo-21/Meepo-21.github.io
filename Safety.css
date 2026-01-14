@@ -1,0 +1,156 @@
+ <!DOCTYPE html>
+ <head>
+ <style>
+     html, body {
+         margin:0;
+         padding:0;
+     }
+
+ div div table, tr, td {
+     border: 1px solid black;
+ }
+    div div table {
+        background-color:#FFFFFF;
+    }
+    div div table tr th{
+        color:#000000;
+    }
+    div.parent {
+        width:1365px;
+        height:35px;
+        position:fixed;
+    }
+    div div.Sky{
+        width:1285px;
+        height:35px;
+        background-color:rgb(20, 120, 108);
+        color:#FFFFFF;
+        margin:0px;
+        padding:0px;
+        text-align:center;
+        position:fixed;
+        top:0px;
+        left:80px;
+    }
+    div.yellow2 {
+        width:80px;
+        height:6860000000px;
+        background-color:rgb(255, 254, 161);
+        border-color:#c3c494;
+        position:fixed;
+    }
+    div div.yellow_1 {
+        width:455px;
+        height:40px;
+        background-color:rgb(255, 254, 161);
+        margin:0px;
+        padding:0px;
+        text-align:center;
+        position:fixed;
+        top:35px;
+        left:80px;
+        color:#000000;
+    }
+    div div.yellow_2 {
+        width:455px;
+        height:40px;
+        background-color:rgb(255, 254, 161);
+        margin:0px;
+        padding:0px;
+        text-align:center;
+        position:fixed;
+        top:35px; 
+        left:535px;
+        color:#000000;
+    }
+        div div.yellow_3 {
+        width:455px;
+        height:40px;
+        background-color:rgb(255, 254, 161);
+        margin:0px;
+        padding:0px;
+        text-align:center;
+        position:fixed;
+        top:35px; 
+        left:990px;
+        color:#000000;
+    }
+    div.parent2 {
+        justify-content:center;
+    }
+    p{
+        color:#FFFFFF;
+    }
+    div img.lcorpimg {
+        width:80px; 
+        height:85px;
+    }
+    img.safetyimg {
+        width:400px;
+        height:205px;
+    }
+    div {
+        color:#FFFFFF;
+    }
+    div.txt {
+        border: 1px solid;
+        border-color:#c3c494;
+        width:642px;
+        height:205px;
+        position:relative;
+        top:100px;
+        left:90px;
+    }
+    div.txt2 {
+        border: 1px solid;
+        border-color:#c3c494;
+        width:642px;
+        height:205px;
+        position:relative;
+        bottom:100px;
+        left:90px;
+    }
+    div.loremipsum {
+        border: 1px solid;
+        border-color:#c3c494;
+        width:642px;
+        height:205px;
+        position:relative;
+        bottom:107px;
+        left:742px;
+    }
+    
+    h1 {
+    color:#fd393b;
+    }
+    h2 {
+    color:#fd393b;
+    }
+    img.Netzach {
+        width:100px;
+        height:205px;
+        position:relative;
+        bottom:107px;
+        left:742px;
+        border: 1px solid;
+        border-color:#c3c494;
+    }
+    img.robonetzach {
+        width:100px;
+        height:205px;
+        position:relative;
+        bottom:107px;
+        left:842px;
+        border: 1px solid;
+        border-color:#c3c494;
+    }
+    img.safetyimg {
+        width:400px;
+        height:205px;
+        position:relative;
+        bottom:304px;
+        left:742px;
+    }
+    
+</style>
+</head>
