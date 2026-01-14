@@ -1,1 +1,1 @@
-# Meepo-21.github.io
+<a href="IndexLcorp.html" target="_self>click here</a>
